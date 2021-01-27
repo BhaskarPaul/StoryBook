@@ -1,0 +1,25 @@
+.login {
+    width: 500px !important;
+    margin-top: 100px !important;
+    text-align: center;
+}
+
+.fa-small {
+    font-size: 16px !important;
+}
+
+.delete-form {
+    cursor: pointer;
+    background-color: transparent;
+    border: none;
+    color: red;
+}
+
+.edit {
+    color: blue !important;
+}
+
+.own-row {
+    display: flex;
+    flex-direction: row;
+}
